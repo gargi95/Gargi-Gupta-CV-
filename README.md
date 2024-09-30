@@ -55,7 +55,9 @@ Prior to this, I completed my M.Tech in Computer Science and Engineering, where 
 ## Invited Talks
 
 - **“Demystifying the Concept of Explainable AI”** at University of Galway’s Women in Data Science Seminar (2022).
+- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=EnYUgwWOj4M&t=18s" frameborder="0" allowfullscreen></iframe>
 - **“In-depth Overview of Explainable AI Methods”** at PyLadies Dublin (2023).
+- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=dtrcKr1MLR4&t=8s" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -66,6 +68,9 @@ Prior to this, I completed my M.Tech in Computer Science and Engineering, where 
 - **Libraries**: TensorFlow, Matplotlib, NLTK
 
 ---
+## Interactive Skill Progress
+
+html
 
 ## Achievements
 
@@ -77,6 +82,7 @@ Prior to this, I completed my M.Tech in Computer Science and Engineering, where 
 ## VOLUNTEER AND REVIEWER 
 
 - CVIP (2024) | AIC (2024)
+- **Communication Support and Team** at **Women in AI Ireland**
 
 
 ---
