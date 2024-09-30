@@ -1,6 +1,5 @@
 # Gargi-Gupta-CV-
 # Gargi Gupta
-<img src="https://giphy.com/gifs/pudgypenguins-celebration-graduation-graduated-TPJnC36kY11vc05p7V" alt="Motivational GIF" width="300"/>
 
 
 **PhD Researcher in Machine Learning**  
@@ -10,15 +9,39 @@ Technological University Dublin, Ireland
 
 <img src="https://github.com/gargi95/Gargi-Gupta-CV-/blob/main/GG.JPG" alt="Gargi Gupta's Photo" width="200"  align="right" style="margin-left: 20px;"/>
 
-## About Me
+##  <span style="color: #2196F3;">About Me
 
 I am currently a PhD candidate at the SFI Center for Research & Training in Machine Learning Labs, Technological University Dublin. My research focuses on **post hoc explanations for Recurrent Neural Networks (RNNs) using state transition representations** on univariate time series data, a key area within **Explainable AI (XAI)**. I have a passion for understanding the black-box nature of AI models and making machine learning more transparent and interpretable.
 
 Prior to this, I completed my M.Tech in Computer Science and Engineering, where I developed a strong foundation in machine learning, deep learning, and data science. I have also had the privilege of teaching and mentoring students as an assistant professor.
 
 ---
-##Timeline 
+## Work Experience
 
+
+### TA/Demonstrator TU Dublin 
+*Sept 2024 – ongoing*
+
+### Data Science Intern - Shutterstock, Dublin
+*June 2023 – September 2023*
+
+- Conducted experiments and analysis on the style encoding capabilities of the CLIP (Contrastive Language-Image Pre-Training) model.
+- Analyzed high-level, low-level, semantic, and protected styles in AI-generated images (AIGEN).
+- Curated datasets from the Shutterstock AIGEN image catalog to compare the CLIP model’s ability to differentiate between AI-generated images and natural images.
+
+### Assistant Professor - College of Engineering Roorkee
+*August 2020 – August 2021*
+
+- Taught subjects like Discrete Structures, Object-Oriented Programming with Java, and Principles of Programming Languages.
+- Managed the OC Data Science Lab, worked on NAAC Team (Criteria 7), and acted as Faculty Advisor.
+- Project Coordinator for B.Tech first-year students.
+
+### Software Engineer Trainee - Infosys, Mysuru
+*January 2017 – May 2017*
+
+- Developed an intra-mailing system using Java-based enterprise applications.
+- Gained basic knowledge and implementation of email protocols (SMTP, POP3).
+- Utilized CSS, JavaScript, Bootstrap, AngularJS, and Hibernate for front-end development.
 
 ---
 
@@ -75,9 +98,7 @@ Prior to this, I completed my M.Tech in Computer Science and Engineering, where 
 - **Libraries**: TensorFlow, Matplotlib, NLTK
 
 ---
-## Interactive Skill Progress
 
-html
 
 ## Achievements
 
