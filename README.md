@@ -1,9 +1,11 @@
 # Gargi-Gupta-CV-
 # Gargi Gupta
+<img src="https://giphy.com/gifs/pudgypenguins-celebration-graduation-graduated-TPJnC36kY11vc05p7V" alt="Motivational GIF" width="300"/>
+
 
 **PhD Researcher in Machine Learning**  
 Technological University Dublin, Ireland  
-Email: gargi9513@gmail.com | [LinkedIn](https://www.linkedin.com/in/gargi-gupta-025467108)
+
 
 
 <img src="https://github.com/gargi95/Gargi-Gupta-CV-/blob/main/GG.JPG" alt="Gargi Gupta's Photo" width="200"  align="right" style="margin-left: 20px;"/>
@@ -15,6 +17,10 @@ I am currently a PhD candidate at the SFI Center for Research & Training in Mach
 Prior to this, I completed my M.Tech in Computer Science and Engineering, where I developed a strong foundation in machine learning, deep learning, and data science. I have also had the privilege of teaching and mentoring students as an assistant professor.
 
 ---
+##Timeline 
+
+
+---
 
 ## Updates
 
@@ -24,6 +30,7 @@ Prior to this, I completed my M.Tech in Computer Science and Engineering, where 
 - **2022-11**: Fully funded PhD scholarship by Science Foundation Ireland.
 
 ---
+
 
 ## Research Interests
 
