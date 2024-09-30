@@ -3,7 +3,8 @@
 
 **PhD Researcher in Machine Learning**  
 Technological University Dublin, Ireland  
-Email: gargi9513@gmail.com | [LinkedIn](https://www.linkedin.com/in/gargi-gupta-025467108)  
+Email: gargi9513@gmail.com | [LinkedIn](https://www.linkedin.com/in/gargi-gupta-025467108)
+<img src="https://github.com/gargi95/Gargi-Gupta-CV-/blob/main/GG.JPG" alt="Gargi Gupta's Photo" width="200"/>
 
 ## About Me
 
