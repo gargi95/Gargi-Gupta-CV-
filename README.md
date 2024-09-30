@@ -4,7 +4,9 @@
 **PhD Researcher in Machine Learning**  
 Technological University Dublin, Ireland  
 Email: gargi9513@gmail.com | [LinkedIn](https://www.linkedin.com/in/gargi-gupta-025467108)
-<img src="https://github.com/gargi95/Gargi-Gupta-CV-/blob/main/GG.JPG" alt="Gargi Gupta's Photo" width="200"/>
+
+
+<img src="https://github.com/gargi95/Gargi-Gupta-CV-/blob/main/GG.JPG" alt="Gargi Gupta's Photo" width="200"  align="right" style="margin-left: 20px;"/>
 
 ## About Me
 
@@ -69,6 +71,13 @@ Prior to this, I completed my M.Tech in Computer Science and Engineering, where 
 
 - **Vice Chancellor’s Gold Medal** for standing first in M.Tech at Jaypee Institute of Information Technology.
 - **1st Prize at PhD Bootcamp** for digital contact tracing project (TC4TL Challenge).
+- FULLY FUNDED PHD **SFI CENTER FOR MACHINE LEARNING SCHOLARSHIP**.
+
+
+## VOLUNTEER AND REVIEWER 
+
+- CVIP (2024) | AIC (2024)
+
 
 ---
 
